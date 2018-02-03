@@ -7,5 +7,6 @@ Rishabh Gupta
 Aditya Pal  
 Bitan Sarkar  
 Arham Jain  
-Ankur Mazumder
-Harsh Mantri
+Harsh Mantri  
+Saksham Arneja    
+
